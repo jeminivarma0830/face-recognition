@@ -20,6 +20,7 @@ NumPy
 face_recognition library
 
 📂 Project Structure
+
 Face-Recognition/
 │── dataset/           # Images of known people  
 │── encodings/         # Saved face encodings  
